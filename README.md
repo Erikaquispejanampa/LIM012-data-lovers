@@ -1,18 +1,4 @@
-![laboratoria](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/laboratoria.png)
-# Proyecto:           
-                     “Common Core 2 - Data Lovers ”
-# Promoción:           
-                        LIM012
-# Inicio:       
-                        Jueves, 05 de Marzo
-# Couch:                           
-                      - Vidal Espinoza, Betsy
-# Integrantes:
-                      - Sanchez, Isabela
-                      - Quispe Janampa, Erika
-
-                              2020-1
-
+![Caratula](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/caratula.png)
 
 
 ##                                          Índice
@@ -120,10 +106,10 @@ contándonos cómo fue tu proceso de diseño y cómo crees que el producto resue
 el problema (o problemas) que tiene tu usuario.
 
 ### Historias de usuario
-* ![1. Historia de Usuario 1](HU/HU_01.png)
-* ![2. Historia de Usuario 2](HU/HU_02.png)
-* ![3. Historia de Usuario 3](HU/HU_03.png)
-* ![4. Historia de Usuario 4](HU/HU_04.png)
+* ![1. Historia de Usuario 1](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_01.png)
+* ![2. Historia de Usuario 2](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_02.png)
+* ![3. Historia de Usuario 3](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_03.png)
+* ![4. Historia de Usuario 4](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_04.png)
 
 En la medida de lo posible, termina una historia de usuario antes de pasar
 a la siguiente (Cumple con Definición de Terminado + Criterios de Aceptación).
