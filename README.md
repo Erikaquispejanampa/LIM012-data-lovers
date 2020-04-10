@@ -1,4 +1,4 @@
-![laboratoria](img/laboratoria.png)
+![laboratoria](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/laboratoria.png)
 # Proyecto:           
                      “Common Core 2 - Data Lovers ”
 # Promoción:           
