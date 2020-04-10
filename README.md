@@ -1,4 +1,4 @@
-![Caratula](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/caratula.png)
+![Caratula](https://raw.githubusercontent.com/Erikaquispejanampa/LIM012-data-lovers/master/src/img/caratula.png)
 
 
 ##                                          Índice
