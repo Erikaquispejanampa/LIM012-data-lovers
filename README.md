@@ -2,7 +2,7 @@
 # Proyecto:           “Common Core 2 - Data Lovers ”
 # Promoción:           
                         LIM012
-# Inicio  N° 02:       
+# Inicio:       
                         Jueves, 05 de Marzo
 # Couch:                           
                       - Vidal Espinoza, Betsy
