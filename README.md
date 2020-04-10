@@ -1,16 +1,16 @@
-![Laboratoria](file:///C:/Users/Erika/Downloads/Laboratoria_logo.webp)
+![laboratoria](img/laboratoria.png)
 # Proyecto:                    “Common Core 2 - Data Lovers ”
-# PROMOCIÓN:           
+# Promoción:           
                         LIM012
-# INICIO  N° 02:       
+# Inicio  N° 02:       
                         Jueves, 05 de Marzo
-# COUCH:                           
+# Couch:                           
                       - Vidal Espinoza, Betsy
-# INTEGRANTES:
+# Integrantes:
                       - Sanchez, Isabela
                       - Quispe Janampa, Erika
 
-#                                           2020-1
+                              2020-1
 
 
 
@@ -38,7 +38,7 @@ Encontrará más información en [Wikipedia](https://es.wikipedia.org/wiki/Video
 
 El objetivo de este proyecto es la creación y el desarrollo de una página web dinámica, que está orientada a la información de los campeones de League of Legends. Durante el desarrollo de interacción, el usuario irá aprendiendo de manera sencilla y amena la información de los campeones, de acuerdo a cada búsqueda en  particular. El proyecto se ha desarrollado utilizando  HTML puro, CSS y Javascript basada en data de formato Json.  
 
-Cómo ![League of Legends](https://euw.leagueoflegends.com/es-es/) es un juego de estrategia, nuestro proyecto ![“LOLQuery”](https://erikaquispejanampa.github.io/LIM012-data-lovers/src/)
+Cómo [League of Legends](https://euw.leagueoflegends.com/es-es/) es un juego de estrategia, nuestro proyecto [“LOLQuery”](https://erikaquispejanampa.github.io/LIM012-data-lovers/src/)
 sirve de  ayuda para los jugadores, porque permite visualizar las características esenciales de los campeones. Por lo tanto, la selección de búsqueda según las opciones que brinda LOLQuery,  facilitan al usuario ya que pueden prever  una estrategia antes de empezar la partida.
 
 Para este proyecto hemos escogido esta data:
@@ -119,10 +119,10 @@ contándonos cómo fue tu proceso de diseño y cómo crees que el producto resue
 el problema (o problemas) que tiene tu usuario.
 
 ### Historias de usuario
-* [1. Historia de Usuario 1](HU/HU_01.png)
-* [2. Historia de Usuario 2](HU/HU_02.png)
-* [3. Historia de Usuario 3](HU/HU_03.png)
-* [4. Historia de Usuario 4](HU/HU_04.png)
+* ![1. Historia de Usuario 1](HU/HU_01.png)
+* ![2. Historia de Usuario 2](HU/HU_02.png)
+* ![3. Historia de Usuario 3](HU/HU_03.png)
+* ![4. Historia de Usuario 4](HU/HU_04.png)
 
 En la medida de lo posible, termina una historia de usuario antes de pasar
 a la siguiente (Cumple con Definición de Terminado + Criterios de Aceptación).
