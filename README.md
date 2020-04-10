@@ -1,13 +1,12 @@
 ![laboratoria](img/laboratoria.png)
-  Proyecto:   
-                      “Common Core 2 - Data Lovers”
-  Promoción:           
+# Proyecto:           “Common Core 2 - Data Lovers ”
+# Promoción:           
                         LIM012
-  Inicio  N° 02:       
+# Inicio  N° 02:       
                         Jueves, 05 de Marzo
-  Couch:                           
+# Couch:                           
                       - Vidal Espinoza, Betsy
-  Integrantes:
+# Integrantes:
                       - Sanchez, Isabela
                       - Quispe Janampa, Erika
 
