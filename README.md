@@ -93,7 +93,7 @@ y de equipo.
 
 ## 4. Consideraciones generales
 
-* La interfaz será desplegada usando [GitHub Pages](https://erikaquispejanampa.github.io/LIM012-data-lovers/src/).
+* La interfaz será desplegada usando [https://erikaquispejanampa.github.io/LIM012-data-lovers/src/](https://erikaquispejanampa.github.io/LIM012-data-lovers/src/).
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
