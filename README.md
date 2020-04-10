@@ -1,5 +1,6 @@
 ![laboratoria](img/laboratoria.png)
-# Proyecto:           “Common Core 2 - Data Lovers ”
+# Proyecto:           
+                     “Common Core 2 - Data Lovers ”
 # Promoción:           
                         LIM012
 # Inicio:       
