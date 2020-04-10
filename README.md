@@ -106,10 +106,10 @@ contándonos cómo fue tu proceso de diseño y cómo crees que el producto resue
 el problema (o problemas) que tiene tu usuario.
 
 ### Historias de usuario
-* ![1. Historia de Usuario 1](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_01.png)
-* ![2. Historia de Usuario 2](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_02.png)
-* ![3. Historia de Usuario 3](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_03.png)
-* ![4. Historia de Usuario 4](https://raw.githubusercontent.com/Erikaquispejanampa/Imagenes/master/HU_04.png)
+* ![1. Historia de Usuario 1](https://raw.githubusercontent.com/Erikaquispejanampa/LIM012-data-lovers/master/src/HU/HU01.JPG)
+* ![2. Historia de Usuario 2](https://raw.githubusercontent.com/Erikaquispejanampa/LIM012-data-lovers/master/src/HU/HU02.JPG)
+* ![3. Historia de Usuario 3](https://raw.githubusercontent.com/Erikaquispejanampa/LIM012-data-lovers/master/src/HU/HU03.JPG)
+* ![4. Historia de Usuario 4](https://raw.githubusercontent.com/Erikaquispejanampa/LIM012-data-lovers/master/src/HU/HU04.JPG)
 
 En la medida de lo posible, termina una historia de usuario antes de pasar
 a la siguiente (Cumple con Definición de Terminado + Criterios de Aceptación).
